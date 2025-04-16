@@ -1,4 +1,4 @@
-## hello world, im emily! ![wave_gif](https://github.com/user-attachments/assets/5cc1c4ae-19d2-4823-8537-27688414adb6)
+## hello world, im emily! <img src=![wave_gif](https://github.com/user-attachments/assets/5cc1c4ae-19d2-4823-8537-27688414adb6)  height="50">
 
 ☆ aspiring game developer & software engineer | currently studying at CSUF ☆
 
