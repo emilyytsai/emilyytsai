@@ -1,4 +1,8 @@
-## Hi there 👋
+## hello world, im emily! ![wave_gif](https://github.com/user-attachments/assets/5cc1c4ae-19d2-4823-8537-27688414adb6)
+
+☆ aspiring game developer & software engineer | currently studying at CSUF ☆
+
+★ [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com ★
 
 <!--
 **emilyytsai/emilyytsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
