@@ -1,7 +1,6 @@
-## <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="20"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="25">
+# <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="25"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="29">
 
-☆ aspiring game developer & software engineer | currently studying at CSUF ☆
-
+<img src="https://github.com/user-attachments/assets/5c7d3f63-4f86-4694-a7d1-779321631951" height="21"> aspiring game developer & software engineer | currently studying at CSUF <img src="https://github.com/user-attachments/assets/5c7d3f63-4f86-4694-a7d1-779321631951" height="21">
 
 [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com
 
