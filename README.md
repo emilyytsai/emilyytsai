@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="20"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="28">
+## <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="20"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="25">
 
 ☆ aspiring game developer & software engineer | currently studying at CSUF ☆
 
