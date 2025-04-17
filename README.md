@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"><br><br>
 
-<img src="https://streak-stats.demolab.com/?user=emilyytsai&theme=ayu-mirage" height="120"/>
+<img src="https://streak-stats.demolab.com/?user=emilyytsai&theme=ayu-mirage" height="120"/><br>
 
 <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18"> ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
