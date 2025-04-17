@@ -13,8 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge) <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">
 
 </div>
 
