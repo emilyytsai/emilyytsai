@@ -6,13 +6,8 @@
 
 <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18">
 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=emilyytsai&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyytsai&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=emilyytsai&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emilyytsai&show_icons=true&theme=ayu-mirage" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=emilyytsai&theme=ayu-mirage" height="180"/>
 
 </div>
 
