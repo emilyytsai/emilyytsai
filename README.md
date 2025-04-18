@@ -5,6 +5,7 @@
  <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14"> aspiring game developer & software engineer | currently studying at CSUF <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14">
  
  <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18">
+ 
 <br>
 <div style="height: 4px;"></div>
 
