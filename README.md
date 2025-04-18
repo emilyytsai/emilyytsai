@@ -4,16 +4,14 @@
 
 <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14"> aspiring game developer & software engineer | currently studying at CSUF <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14">
 
-<img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"><br><br>
+<img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18"><br><br>
 
-<img src="https://streak-stats.demolab.com/?user=emilyytsai&theme=ayu-mirage" height="120"/><br><br>
-
-<img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18"> ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18">
 
 </div>
 
