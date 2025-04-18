@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-icon.svg" height="30" title="Unity"/>
-  <img src="https://icon-sets.iconify.design/logos/svelte-kit/" height="30" title="SvelteKit"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="30" title="Unity"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="30" title="SvelteKit"/>
 
  
  </div>
