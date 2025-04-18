@@ -4,20 +4,20 @@
  
  <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14"> aspiring game developer & software engineer | currently studying at CSUF <img src="https://github.com/user-attachments/assets/03f72895-1c9c-4ae3-9cdc-a96b82657443" height="14">
 
- <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="30" title="C++"/>
+ <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" height="30" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" title="C#"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="30" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" title="Python"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="30" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML5"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="30" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="30" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnuassembly.svg" height="30" title="Assembly"/>
- <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/X86_Assembly_Logo.svg" height="30" title="x86 Assembly"/> <img src="https://github.com/user-attachments/assets/21fee737-78e8-44bc-a7ec-f200fc332188" height="18">
+
  
  <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18"><br><br>
  
