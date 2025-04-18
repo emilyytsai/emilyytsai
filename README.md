@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-icon.svg" height="30" title="Unity"/>
+  <img src="https://icon-sets.iconify.design/logos/svelte-kit/" height="30" title="SvelteKit"/>
 
  
  </div>
