@@ -6,8 +6,7 @@
  
  <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18" width="18"> [LinkedIn](https://www.linkedin.com/in/emi-tsai/) | emilymaytsai@gmail.com <img src="https://github.com/user-attachments/assets/a5e0a632-ba79-4cd5-adb8-f40fd5297ae9" height="18" width="18">
  
-<br>
-<div style="height: 1px;"></div>
+——
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" title="C#"/>
@@ -15,8 +14,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="30" title="Unity"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="30" title="SvelteKit"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="30" title="Unity"/>
 
  
  </div>
