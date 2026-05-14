@@ -20,10 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="30" title="SvelteKit"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="30" title="Unity"/>
 
+profile image by @snakeinajar
  
  </div>
-
- profile image by @snakeinajar
 
 <!--
 **emilyytsai/emilyytsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
