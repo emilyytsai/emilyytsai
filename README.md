@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" height="120" alt="me" src="https://github.com/user-attachments/assets/fe5dc307-16dc-4921-b247-4d57c7c2294c" />
+<img width="120" height="120" alt="me" src="https://github.com/user-attachments/assets/b60c0f30-5f55-4e2c-9b05-0762fcbb08e4" />
 
  
  # <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="27" width="27"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="34" width="34">
@@ -22,6 +22,8 @@
 
  
  </div>
+
+ profile image by @snakeinajar
 
 <!--
 **emilyytsai/emilyytsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
