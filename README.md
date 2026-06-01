@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" height="150" alt="IMG_9936" src="https://github.com/user-attachments/assets/fc2850ed-c748-4037-a16b-00942032801e" />
+<img width="120" height="120" alt="IMG_9936" src="https://github.com/user-attachments/assets/ac49c04d-7b20-457a-8f72-f4f753671689" />
 
  
  # <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="27" width="27"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="34" width="34">
