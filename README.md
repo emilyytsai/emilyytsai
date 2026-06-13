@@ -18,8 +18,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="30" title="SvelteKit"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="30" title="Unity"/>
-
-<br>profile image by @rapsukkaz
  
  </div>
 
