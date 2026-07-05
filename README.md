@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="125" height="125" alt="Screenshot_0" src="https://github.com/user-attachments/assets/e93bf5b2-6b42-4221-aaef-85a897202c40" />
+<img width="125" height="125" alt="Screenshot_0" src="https://cdn.discordapp.com/attachments/1497531603767787672/1523193865228648528/IMG_2334.png?ex=6a4b3855&is=6a49e6d5&hm=6a0f272dd4d82903dfc09f631274a07f7b50b6b36abf5c94d7365423254ae0a1&" />
 
 
  # <img src="https://github.com/user-attachments/assets/2b86e697-a3c6-4460-88d1-86d4a4711225" height="27" width="27"> hello world, im emily! <img src="https://github.com/user-attachments/assets/105bc143-5ed6-48eb-bdb2-65b18bc4b4ff" height="34" width="34">
